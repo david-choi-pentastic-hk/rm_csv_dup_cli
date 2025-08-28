@@ -1,3 +1,4 @@
+# Copyright (c) 2025 Pentastic Security Limited. All rights reserved.
 
 # Warning: supports IPv4 only
 class IpAddress:

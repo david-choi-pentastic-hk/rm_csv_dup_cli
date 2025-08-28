@@ -1,3 +1,5 @@
+# Copyright (c) 2025 Pentastic Security Limited. All rights reserved.
+
 # @file rm_csv_dup.py
 # @brief Removes duplicated (and possibly duplicated entries) in a CSV file.
 # @author David Choi <david.choi@pentastic.hk>
