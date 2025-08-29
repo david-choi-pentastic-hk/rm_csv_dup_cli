@@ -18,6 +18,9 @@ It only sees findings with the same prefices and suffices as similar findings.
 Also, you can only accept or reject a merge.  
 You cannot slightly modify the merged contents before placing them into the result table.  
 
+## Client
+Josh
+
 ---
 
 Copyright (c) 2025 Pentastic Security Limited. All rights reserved.
